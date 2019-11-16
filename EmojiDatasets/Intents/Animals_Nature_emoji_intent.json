@@ -1,0 +1,1654 @@
+{
+    "auto": true,
+    "contexts": [],
+    "cortanaCommand": {
+        "navigateOrService": "NAVIGATE",
+        "target": ""
+    },
+    "endInteraction": false,
+    "events": [],
+    "fallbackIntent": false,
+    "followUpIntents": [],
+    "id": "44b33a47-8c04-4662-ad58-e75ef58c340a",
+    "lastUpdate": 1540879292,
+    "liveAgentHandoff": false,
+    "name": "Emoji handling - Animals & Nature",
+    "priority": 500000,
+    "responses": [
+        {
+            "affectedContexts": [],
+            "defaultResponsePlatforms": {},
+            "messages": [
+                {
+                    "speech": "Sorry, I don't understand smiley language yet! Can we talk in English only? 😃🙏🏻",
+                    "type": 0
+                }
+            ],
+            "parameters": [],
+            "resetContexts": false,
+            "speech": []
+        }
+    ],
+    "templates": [],
+    "userSays": [
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc36"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc31"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc2d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc39"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc30"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc3b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc3c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc28"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83e\udd81"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc2e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc37"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc3d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc38"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc19"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc35"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc2f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\ude48"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\ude49"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\ude4a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc12"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc14"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc27"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc26"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc24"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc23"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc25"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc3a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc17"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc34"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83e\udd84"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc1d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc1b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc0c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc1e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc1c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udd77"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83e\udd82"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83e\udd80"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc0d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc22"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc20"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc1f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc21"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc2c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc33"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc0b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc0a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc06"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc05"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc03"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc02"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc04"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc2a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc2b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc18"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc10"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc0f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc11"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc0e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc16"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc00"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc01"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc13"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83e\udd83"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udd4a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc15"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc29"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc08"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc07"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc3f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc3e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc09"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc32"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf35"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf84"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf32"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf33"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf34"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf31"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf3f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2618"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf40"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf8d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf8b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf43"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf42"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf41"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf3e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf3a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf3b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf39"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf37"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf3c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf38"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc90"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf44"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf30"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf83"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udc1a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udd78"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf0e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf0d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf0f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf15"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf16"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf17"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf18"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf11"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf12"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf13"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf14"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf1a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf1d"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf1b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf1c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf1e"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf19"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2b50"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf1f"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udcab"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2728"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2604"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2600"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf24"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u26c5"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf25"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf26"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2601"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf27"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u26c8"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf29"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u26a1"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udd25"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udca5"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2744"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf28"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2603"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u26c4"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf2c"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udca8"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf2a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf2b"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2602"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\u2614"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udca7"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83d\udca6"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        },
+        {
+            "count": 0,
+            "data": [
+                {
+                    "text": "\ud83c\udf0a"
+                }
+            ],
+            "isAuto": false,
+            "isTemplate": false,
+            "updated": 1540878867
+        }
+    ],
+    "webhookForSlotFilling": false,
+    "webhookUsed": false
+}
